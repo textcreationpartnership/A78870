@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties letter to the Queen; concerning the differences betwixt the English and the Scots, and the great distractions within the city of London; together with His Majesties promise to his consort the Queene. Wherein is discovered the late proceedings of the King, touching the French Army, and their designe. With certain proposals to the kingdome of England. Perused and examined by a perfect copy, and published for generall satisfaction of all His Majesties subjects.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78870</idno><idno type="EEBO-CITATION">99865272</idno>
+  <idno type="VID">161496</idno>
+  <idno type="EEBO-PROQUEST">2248536621</idno>
+  
+            <idno type="STC">Wing C2418</idno>
+            <idno type="STC">Thomason E430_9</idno>
+            <idno type="STC">ESTC R206084</idno>
+            <idno type="PROQUEST">99865272</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865272e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78870)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161496)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E430[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties letter to the Queen; concerning the differences betwixt the English and the Scots, and the great distractions within the city of London; together with His Majesties promise to his consort the Queene. Wherein is discovered the late proceedings of the King, touching the French Army, and their designe. With certain proposals to the kingdome of England. Perused and examined by a perfect copy, and published for generall satisfaction of all His Majesties subjects.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>2, [6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Oreton, and are to be sold neere the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Spurious" -- Wing.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "March 2d"; the 8 in imprint date is crossed out and replaced with a "7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Sovereign (1625-1649 : Charles I) --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161496:1"/>
+            <p>THE KINGS MAJESTIES LETTER TO THE QUEEN; CONCERNING The differences betwixt the English and the Scots, and the great distractions within the City of <hi>London;</hi> together with His Majesties promise to His Consort the QUEENE. Wherein is discovered the late proceedings of the KING, touching the French Army, and their Designe. With certain Propo<g ref="char:EOLhyphen"/>sals to the Kingdome of <hi>England.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>PErused and examined by a perfect <hi>Copy,</hi> and published for generall satisfaction of all His Majesties Subjects.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Oreton,</hi> and are to be sold neere the Royall Exchange in Cornhill. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161496:2"/>
+            <pb n="1" facs="tcp:161496:2"/>
+            <head>THE KINGS MAJESTIES LETTER TO THE QUEENE CONCERNING The proceedings betwixt <hi>England</hi> and <hi>Scotland.</hi> &amp;c.</head>
+            <div type="introduction">
+               <opener>
+                  <salute>WORTHY SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">L</seg>East new discoveries should cause old actions to be forgotten, in remuneration of your former courtesies, I thought it no lesse then part of my duty, in a brief manner, to put you in mind of some few particulars, wher<g ref="char:EOLhyphen"/>by you may the better satisfie your selfe and others in things of this nature; not that it is any way pleasing to me
+<pb n="2" facs="tcp:161496:3"/> to me to rip open old offences, after renewed repentance, but obstinacy and perversnesse deserves no lesse then sharpe re<g ref="char:EOLhyphen"/>proofe wheresoever it is found.</p>
+               <p>Therefore, I desire you to consider of the enclosed Paper, being entituled, <hi>A Letter from the King to the Queen,</hi> but in<g ref="char:EOLhyphen"/>tercepted. However, mistake not my meaning in perusing of it, who am</p>
+               <closer>
+                  <salute>SIR,</salute>
+                  <signed>Your unfeigned friend and Servant, T. WILSON.</signed>
+                  <dateline>Cowes-Castle, <date>24. Febr. 1647.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <head>Postscript.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>Vpon the close of this Letter, I thought meet to put you in mind of some few Copies to be sent down into these parts, to be dispersed amongst the Inhabitants in the Westerne Counties, that so the true sense of former actions, may be made apparent to the weakest capacity, I remain</p>
+                  <closer>
+                     <signed>Yours to serve you, <hi>T. W.</hi>
+                     </signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="letter">
+               <head>A perfect Copy of the Kings Letter to the Queen, inter<g ref="char:EOLhyphen"/>cepted, and sent to <hi>London,</hi>
+               </head>
+               <opener>
+                  <salute>DEARE HEART,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Will be ever constant to the rules and grounds thou left<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with me, not dassenting in the least from my former princi<g ref="char:EOLhyphen"/>ples, but commending thee for thy dexterity and activity, and I
+<pb n="3" facs="tcp:161496:3"/> think none more fit to be a means of a glorious peace then thy self; and without thy company I can neither have peace nor com<g ref="char:EOLhyphen"/>fort, for I value thy love above all earthly things, and that is my contentment; for all my actions are inseparably joyned with thine, and shall ever tend to serve and please thee, and no dan<g ref="char:EOLhyphen"/>ger of death or misery, shall make m<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doe any thing unworthy of thy love, and I hope the difference between the <hi>Scots</hi> and the <hi>English</hi> will encrease, and the dissen<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ions at <hi>London,</hi> are ra<g ref="char:EOLhyphen"/>ther increasing then ceasing; and be confident, I will not de<g ref="char:EOLhyphen"/>sert the Papists, mine and thy best friends.</p>
+               <p>And fear not, I will not engage my self before <hi>I</hi> have an an<g ref="char:EOLhyphen"/>swer from thee, nor consent to go to <hi>London</hi> before the disban<g ref="char:EOLhyphen"/>ding of the Army, or a firme peace be setled.</p>
+               <p>And <hi>I</hi> conceive <hi>France,</hi> is the best way for transporting the Duke of <hi>Lorraines</hi> Army over into <hi>England.</hi> And <hi>I</hi> give thee power in my name, to promise to whom thou think fit to trust with so great a secret, that <hi>I</hi> will suspend all Laws against the Roman Catholiques in <hi>England</hi> and <hi>Ireland,</hi> as soon as God shall enable me I will take them away by a Law, so as by thy meanes and favour I may have so powerfull an assistance against my Rebels of <hi>England</hi> and <hi>Scotland,</hi> as may deserve so great a fa<g ref="char:EOLhyphen"/>vour, and enable me to do it; and also to promise them in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> if you can have it no cheaper, that <hi>I</hi> will joyne with their Forces against <hi>Inchiqueen, &amp;c.</hi> And if <hi>I</hi> had had but two of my mind, <hi>I</hi> would never have called them a Parliament; and the argument that prevailed with me, that the calling of them did not acknowledge them to be a Parliament▪ upon which consi<g ref="char:EOLhyphen"/>deration and condition <hi>I</hi> did it, and no otherwise, and accor<g ref="char:EOLhyphen"/>dingly it is registred in the Councel book, with the Councels u<g ref="char:EOLhyphen"/>nanimous approbation: and <hi>I</hi> pray consider above all earthly things, that my contentment is inseparably joyned with thine, for all my actions shall ever tend to serve and please thee. <hi>I</hi> re<g ref="char:EOLhyphen"/>maine eternally thine.</p>
+               <closer>
+                  <signed>C. R.</signed>
+               </closer>
+            </div>
+            <div type="proposals">
+               <pb n="4" facs="tcp:161496:4"/>
+               <head>Certain Proposals to the Kingdome of <hi>England,</hi> touching the late proceedings of the King.</head>
+               <list type="proposals">
+                  <label>I.</label>
+                  <item>COncerning bleeding Ireland, That not long before the Rebellion in that Kingdom broke forth, there was of<g ref="char:EOLhyphen"/>ten private meetings at White-hall, by severall great per<g ref="char:EOLhyphen"/>sons, who since proved the most bloudy Actors in that de<g ref="char:EOLhyphen"/>testable war.</item>
+                  <label>II.</label>
+                  <item>That when the King first heard of that horrid Rebellion, and of the massacre of one hundred thousand of his Prote<g ref="char:EOLhyphen"/>stant Subjects (he being in <hi>Scotland</hi>) divers standers by then did discover by the Kings severall questions to the messen<g ref="char:EOLhyphen"/>gers, and by his gesture, that he had little sorrow for so hor<g ref="char:EOLhyphen"/>rible and treacherous a massacre.</item>
+                  <label>III.</label>
+                  <item>That at the first beginning of the Rebellion, his Majesty was often pressed to publish a Proclamation against them by the Proclamation of England, and to be read in all the, Churches of this Kingdom, but could not fully accomplish it, having only a grant of 40. to be printed, and none issued out, but by his Majesties special command.</item>
+                  <label>IV.</label>
+                  <item>That by the countenancing of the Irish Rebellion, the Re<g ref="char:EOLhyphen"/>bels in all their Papers and transactions of businesse, stiled
+<pb n="5" facs="tcp:161496:4"/> themselves the King and Queens Army, saying, they had good warrant under black and white for their proceedings, and crying out against the English Parliament and Puritans, as the Kings enemies and theirs, and divers depositions and pa<g ref="char:EOLhyphen"/>pers, extant and in paint to that purpose, before these unna<g ref="char:EOLhyphen"/>turall wars began, that they have the bread Seale for their warrant.</item>
+                  <label>V.</label>
+                  <item>That his Majesty granted a strong Commission to Gene<g ref="char:EOLhyphen"/>neral <hi>Oneal,</hi> General of the Irish Army, as did appear by the great controversie betwixt the said <hi>Oneal,</hi> and General <hi>Mon<g ref="char:EOLhyphen"/>rose,</hi> that he who could shew the best Commission from the King should submit to each other.</item>
+                  <label>VI.</label>
+                  <item>That the Kings designes and welfare do much depend up<g ref="char:EOLhyphen"/>on the good successe of the Irish Army under command of the Lord <hi>Taffe,</hi> as appears by the Lord <hi>Digbie,</hi> touching the late battel betwixt the said <hi>Taff,</hi> and the Lord Inchiqueen.</item>
+                  <label>VII.</label>
+                  <item>His employing the Lord <hi>Taff</hi> in <hi>England,</hi> and many other Irish in his Army against the Parliament of England, and their Army.</item>
+                  <label>VIII.</label>
+                  <item>That divers strange Chaplains, not long before these trou<g ref="char:EOLhyphen"/>bles began, were authorized to preach at White-hall, for the raising up of the Kings Prerogative; and set before him, by way of emulation, the broken Parliament of France, and that he was Lord of all the Kingdome, and that all mens estates were his.</item>
+                  <label>IX.</label>
+                  <item>They also declared, That if the King, like <hi>Nebuchadnezar,</hi> should set up a golden Image to be adored, the people if they refused that Idolatry, are bound to suffer death quiet<g ref="char:EOLhyphen"/>ly,
+<pb n="6" facs="tcp:161496:5"/> and not resist the King, as if whole Nations were made for the pleasure and will of a King, and be subject to him, as the Beasts were to <hi>Adam:</hi> and such men as these generally were preferred by the Bishops, which when they had ano<g ref="char:EOLhyphen"/>ther head the Pope, the matters of State many times went ve<g ref="char:EOLhyphen"/>ry justly for the interest of the Common-wealth; but of latter times were meer servants to Prerogative, and against all interest of the Common-wealth.</item>
+                  <label>X.</label>
+                  <item>That King <hi>Charles</hi> hath often said, that Parliaments were factious, because they were ever opposite to Tyrannicall Prerogative, and Court-designs.</item>
+                  <label>XI.</label>
+                  <item>The under-hand dealings wath the King of <hi>Denmark,</hi> as appeareth by the Kings owne Letters and practises with the Army raised against the Scots, and with the Scots Ar<g ref="char:EOLhyphen"/>my.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>EXamined by the Original Copy, and printed for generall sa<g ref="char:EOLhyphen"/>tisfaction of all the Free-born people of <hi>England.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
